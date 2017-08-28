@@ -6,5 +6,7 @@ Hi Turbo,
 
 I'd like to brush up core java, js and learn full stack technologies, starting with angular and node js.
 
-May the force be with you.
+You have to read the documentation too.
+
 Thanks.
+ 
